@@ -14,11 +14,10 @@ const HomepageTextSections = [
         title: 'Welcome',
         description: (
             <>
-                Hi, I'm Lewis. Welcome to my corner of the internet!
-                <br></br>
+                Hi, I'm Lewis.
+                Welcome to my corner of the internet!
                 I've been using Unreal Engine for many years along with other software to create games and tools.
-                Currently working as a Senior Gameplay Developer at BULKHEAD.
-                <br></br>
+                Currently at BULKHEAD as Senior Gameplay Developer.
                 If your interested in my work, check out the <code>projects</code> page.
             </>
         )
