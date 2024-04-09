@@ -16,6 +16,7 @@
   --search-local-modal-width: 800px;
   --search-local-modal-background: #2b3137;
   --search-local-highlight-color: #409bc8;
+  --ifm-navbar-background-color: #181d25;
 }
 
 html[data-theme='dark'] {
