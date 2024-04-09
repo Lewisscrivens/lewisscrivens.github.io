@@ -1,0 +1,47 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.projectsHeader {
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+
+.projectSection {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.projectRow {
+    display: flex;
+    justify-content: center;
+    margin: 2rem 50px;
+    width: 600px;
+}
+
+.projectRow h3 {
+    display: flex;
+    justify-content: left;
+}
+
+.projectRow p {
+    display: flex;
+    justify-content: left;
+}
+
+.projectRow img {
+    border-radius: 20px;
+    box-shadow: 0px 15px 15px rgba(0, 0, 0, 0.30);
+    transition: transform 0.2s ease-in-out, filter 0.2s ease-in-out;
+}
+
+.projectRow img:hover {
+    transform: scale(1.02);
+    filter: brightness(80%);
+}
