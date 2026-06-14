@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lewisscrivens.com/blog</id>
+    <title>Lewis Scrivens Blog</title>
+    <updated>2026-06-14T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://lewisscrivens.com/blog"/>
+    <subtitle>Lewis Scrivens Blog</subtitle>
+    <icon>https://lewisscrivens.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://lewisscrivens.com/blog/Welcome</id>
+        <link href="https://lewisscrivens.com/blog/Welcome"/>
+        <updated>2026-06-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to my corner of the internet, where I share my adventures in game development, with a particular focus on Unreal Engine.]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to my corner of the internet, where I share my adventures in game development, with a particular focus on Unreal Engine.</p>
+<!-- -->
+<p>I’m currently working professionally on Wardogs, but I’m always tinkering with new ideas, exploring techniques, and building side projects along the way.</p>]]></content>
+        <author>
+            <name>Lewis Scrivens</name>
+            <uri>https://github.com/lewisscrivens</uri>
+        </author>
+        <category label="Welcome" term="Welcome"/>
+    </entry>
+</feed>

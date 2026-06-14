@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunklewisscrivens=globalThis.webpackChunklewisscrivens||[]).push([[8121],{8070(e){e.exports=JSON.parse('{"tags":[{"label":"Welcome","permalink":"/blog/tags/welcome","count":1}]}')}}]);

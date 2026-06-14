@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklewisscrivens=self.webpackChunklewisscrivens||[]).push([[9720],{9720:(e,s,c)=>{c.d(s,{createArchitectureServices:()=>r.S});var r=c(9936);c(9369)}}]);

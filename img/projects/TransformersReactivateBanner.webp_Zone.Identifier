@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://eu-central.storage.cloudconvert.com/tasks/a5eb8722-ed7d-4f3e-a87e-a0ae4b2ad82f/TransformersReactivateBanner.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20250201%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20250201T143526Z&X-Amz-Expires=86400&X-Amz-Signature=1fd13a054a9ef071feb4f4c805225919636f2047e4286c9e8555c072dc7e56bf&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22TransformersReactivateBanner.webp%22&response-content-type=image%2Fwebp&x-id=GetObject
