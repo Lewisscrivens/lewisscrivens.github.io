@@ -17,7 +17,7 @@ const HomepageTextSections = [
                 Hi, I'm Lewis.
                 Welcome to my corner of the internet!
                 I've been using Unreal Engine for many years along with other software to create games and tools.
-                Currently at BULKHEAD as Senior Gameplay Developer.
+                Currently at BULKHEAD as a Lead Gameplay Developer.
                 If your interested in my work, check out the <code>projects</code> page.
             </>
         )

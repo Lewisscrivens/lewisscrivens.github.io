@@ -20,7 +20,6 @@ const config = {
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'log',
 
   tagline: 'Portfolio of Lewis Scrivens and resources. Senior Gameplay Developer.',
 
@@ -39,6 +38,13 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          blogTitle: 'Blog',
+          blogDescription: 'Game development blog by Lewis Scrivens.',
+          blogSidebarTitle: 'Recent posts',
+          feedOptions: {
+            type: ['rss', 'atom'],
+            xslt: true,
+          },
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -70,7 +76,7 @@ const config = {
               label: 'CV',
             },
             {
-              href: 'https://gamedevforge.net/blog',
+              to: '/blog',
               position: 'right',
               label: 'Blog',
             },
@@ -128,6 +134,9 @@ const config = {
 
   markdown: {
     mermaid: true,
+    hooks: {
+      onBrokenMarkdownLinks: 'log',
+    },
   },
 
   themes: [

@@ -8,10 +8,10 @@ const CommercialProjects = [
     {
         title: 'WARDOGS',
         image: require('@site/static/img/projects/WardogsBanner.webp').default,
-        link: 'https://twitter.com/wardogs',
+        link: 'https://store.steampowered.com/app/1867240/WARDOGS/',
         description: (
             <>
-                Senior Gameplay Programmer @BULKHEAD - Active Development
+                Lead Gameplay Programmer @BULKHEAD - Active Development
             </>
         )
     },
@@ -21,7 +21,7 @@ const CommercialProjects = [
         link: 'https://www.playtfr.com/',
         description: (
             <>
-                Senior Gameplay Programmer @BULKHEAD
+                Senior Gameplay Programmer @BULKHEAD - Cancelled
             </>
         )
     },
@@ -39,16 +39,6 @@ const CommercialProjects = [
 
 const PersonalProjects = [
     {
-        title: 'GameDevForge',
-        image: require('@site/static/img/projects/GameDevForgeBanner.webp').default,
-        link: 'https://gamedevforge.net/',
-        description: (
-            <>
-                An Educational Resource for both aspiring and experienced Game Developers
-            </>
-        )
-    },
-    {
         title: 'Toolbox Plugins',
         image: require('@site/static/img/projects/ToolboxBanner.webp').default,
         /* link: '', TODO: Add link to toolbox page in resources... */
@@ -57,7 +47,7 @@ const PersonalProjects = [
                 A collection of Unreal Engine plugins
             </>
         )
-    },
+    }
 ];
 
 function ProjectPanel({image, title, description, link}) {
